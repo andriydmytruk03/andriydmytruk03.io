@@ -1,1 +1,2 @@
-# andriydmytruk03.io
+# Дмитрук Андрій - програмування С++
+## andriydmytruk03.io
